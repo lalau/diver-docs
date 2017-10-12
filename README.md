@@ -15,11 +15,9 @@ Diver is a Chrome extension that allows you to monitor the network requests on a
 
 2. It will ask you for permissions to allow the extension to read your traffic for monitoring and download files for exporting the profile. Proceed when prompted.
 
-3. Once installed, open Chrome Developer Tools and there should be a **Diver** tab in the toolbar.
-<img width="900" alt="diver-in-dev-tool-bar" src="https://user-images.githubusercontent.com/236573/31487406-5daf1ac4-aeef-11e7-819f-560a5804135e.png">
+3. Once installed, open Chrome Developer Tools and there should be a **Diver** tab in the toolbar. <img width="900" alt="diver-in-dev-tool-bar" src="https://user-images.githubusercontent.com/236573/31487406-5daf1ac4-aeef-11e7-819f-560a5804135e.png">
 
-4. Open the **Diver** tab on a web page then refresh the page. You should see that the extension starts receiving traffics. 
-<img width="1085" alt="diver-receive-traffics" src="https://user-images.githubusercontent.com/236573/31487407-5dc6c264-aeef-11e7-83cd-a18df685d90f.png">
+4. Open the **Diver** tab on a web page then refresh the page. You should see that the extension starts receiving traffics. <img width="1085" alt="diver-receive-traffics" src="https://user-images.githubusercontent.com/236573/31487407-5dc6c264-aeef-11e7-83cd-a18df685d90f.png">
 
 Read next about how to setup request profiles and other advanced usage:
 1. [Setup Basic Request Profile](request-profile-basic.md)
