@@ -1,6 +1,12 @@
 # Request Profile
 
-Request profile allows you to setup rules on what requests to monitor, the processing you want on these requests and the what data to look at in the processed requests. The profile persists in your browser so you only need to set up once. Here is an example of how to create and edit a request profile.
+Request profile allows you to setup rules on what requests to monitor, the processing you want on these requests and the what data to look at in the processed requests. The profile persists in your browser so you only need to set up once. In general, typical steps are:
+
+1. Find the requests to monitor
+2. Set up the filters for these requests
+3. Select the data to extract in the requests
+
+Here is an example of how to create and edit a request profile. If you prefer a video tutorial or you can't follow the steps below, you can watch the same steps here: https://youtu.be/HemkTs4aG_A
 
 ## Finding Requests
 
