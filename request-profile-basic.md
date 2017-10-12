@@ -8,7 +8,7 @@ To create a request profile, open the **Diver** tab and go to the web page you w
 
 <img width="1212" alt="diver-no-request-profile" src="https://user-images.githubusercontent.com/236573/31485495-de7ebdb4-aee8-11e7-996a-6290801cbb47.png">
 
-By default, this table only shows the first 30 requests. To change it, click on the dropdown saying `Trimmed`. You have the options to paginate through the requests or show all reuqests, but note that showing all requests will have performance impact on the extension when there are a lot of requests on the page.
+By default, this table only shows the first 30 requests. To change it, click on the dropdown saying `Trimmed`. You have the options to paginate through the requests or show all requests, but note that showing all requests will have performance impact on the extension when there are a lot of requests on the page.
 
 <img width="403" alt="diver-view-options" src="https://user-images.githubusercontent.com/236573/31485496-de997e7e-aee8-11e7-905d-d4fe16d49d96.png">
 
