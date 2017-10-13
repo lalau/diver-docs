@@ -48,6 +48,4 @@ Close the info pane. Click on the **Local** tab and the **For You** tab on the p
 
 You can follow these steps to create more request profiles.
 
-Read next on other edit options in the profile:
-
-[Advanced Request Profile Usage](https://www.yahoo.com/)
+Next: [Advanced Request Profile Usage](https://www.yahoo.com/)
