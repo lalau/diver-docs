@@ -48,4 +48,4 @@ Close the info pane. Click on the **Local** tab and the **For You** tab on the p
 
 You can follow these steps to create more request profiles.
 
-Next: [Advanced Request Profile Usage](https://www.yahoo.com/)
+Next: [Advanced Request Profile Usage](request-profile-advanced.md)
