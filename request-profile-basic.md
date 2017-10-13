@@ -46,6 +46,8 @@ Close the info pane. Click on the **Local** tab and the **For You** tab on the p
 
 <img width="1219" alt="diver-data-table-more" src="https://user-images.githubusercontent.com/236573/31485713-99497ec2-aee9-11e7-9abf-12924820f07d.png">
 
-You can follow these steps to create more request profiles. Read next on other edit options in the profile:
+You can follow these steps to create more request profiles.
+
+Read next on other edit options in the profile:
 
 [Advanced Request Profile Usage](https://www.yahoo.com/)
