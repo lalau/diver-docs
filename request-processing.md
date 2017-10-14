@@ -16,7 +16,7 @@ Here is the default **Query** processor as reference, custom processor should be
 
 https://github.com/lalau/diver-processor/blob/master/query.js
 
-If you prefer a video tutorial or you can't follow the steps below, you can watch the same steps here: https://youtu.be/
+If you prefer a video tutorial or you can't follow the steps below, you can watch the same steps here: https://youtu.be/FIp3W8u6ijY
 
 ## Creating Custom Processor
 
