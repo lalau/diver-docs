@@ -87,6 +87,8 @@ With these data, we can select the keys we want to show in the table.
 
 <img width="753" alt="diver-profile-processor-table" src="https://user-images.githubusercontent.com/236573/31573956-3b86d770-b07a-11e7-973b-6c3d981bf748.png">
 
+This example only shows parsing the query string into data, but the traffic object received by the **process** function contains the request header, response header, cookie, request body, and other information too. Custom processor can be written in a flexible way that can support most use cases.
+
 ## More Options
 
 The current way of hosting processor on **jsDelivr** is far from ideal but it serves the purpose. The extension will be updated to have better support in terms of processor loading. It will be able to load from anywhere or just inline in the extension. It will also have better support for creating custom processor. For example, a tool that can test the processor against requests within the extension.
