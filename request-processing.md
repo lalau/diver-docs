@@ -91,4 +91,4 @@ With these data, we can select the keys we want to show in the table.
 
 The current way of hosting processor on **jsDelivr** is far from ideal but it serves the purpose. The extension will be updated to have better support in terms of processor loading. It will be able to load from anywhere or just inline in the extension. It will also have better support for creating custom processor. For example, a tool that can test the processor against requests within the extension.
 
-Next: [Import and Export Profiles](/)
+Next: [Import and Export Profiles](request-profile-import-export.md)
