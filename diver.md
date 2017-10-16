@@ -19,7 +19,7 @@ Diver is a Chrome extension that allows you to monitor the network requests on a
 
 4. Open the **Diver** tab on a web page then refresh the page. You should see that the extension starts receiving traffics.
 
-Read next about how to setup request profiles and other advanced usage:
+Read next on how to setup request profiles and other advanced usage:
 1. [Setup Basic Request Profile](request-profile-basic.md)
 2. [Advanced Options in Request Profile](request-profile-advanced.md)
 3. [Custom Request Processing](request-processing.md)
