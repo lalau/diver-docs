@@ -8,6 +8,8 @@ Following the [basic usage](request-profile-basic.md) of request profile, there 
 4. Data Name
 5. Request View
 
+## Video Tutorial
+
 If you prefer a video tutorial or you can't follow the steps below, you can watch the same steps here: https://youtu.be/hyPj-7Fe3yc
 
 ## Profile Name
