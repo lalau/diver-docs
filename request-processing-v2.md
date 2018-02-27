@@ -36,7 +36,7 @@ https://github.com/lalau/diver-processor/blob/master/query2.js
 
 ## Video Tutorial
 
-If you prefer a video tutorial or you can't follow the steps below, you can watch the same steps here: https://youtu.be/FIp3W8u6ijY
+If you prefer a video tutorial or you can't follow the steps below, you can watch the same steps here: https://youtu.be/ttsTYoznuXQ
 
 ## Creating Custom Processor
 
